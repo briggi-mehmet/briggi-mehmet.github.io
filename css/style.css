@@ -214,8 +214,8 @@ ul.nav{
       
 .kupon {
     position: absolute;
-    left: 0px;
-    top: 0px;
+    left: 600px;
+    top: 250px;
     z-index: 1;
 }
 .search {
