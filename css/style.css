@@ -216,7 +216,7 @@ ul.nav{
     position: absolute;
     left: 0px;
     top: 0px;
-    z-index: 0;
+    z-index: 1;
 }
 .search {
   	display: inline-block;
